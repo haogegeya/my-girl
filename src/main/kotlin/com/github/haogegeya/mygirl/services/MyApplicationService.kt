@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.haogegeya.mygirl.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.haogegeya.mygirl.MyBundle
 
 class MyApplicationService {
 
